@@ -9,7 +9,7 @@
 
 ## SKILLS and EXPERTISE
                       
-| Technologies | Java 8+, Spring (Core, Data, Integration, Security, MVC), HTML5/CSS3, JUnit, Mockito, SQL, Servlets (JSTL, JSP) |
+| Technologies | Java 8+, Spring (Core, Boot, Data, Integration, Security, MVC), HTML5/CSS3, JUnit, Mockito, SQL, Servlets (JSTL, JSP) |
 |--|--|
 | Tools | IntelliJ IDEA, Maven, Git,  Gitlab, Jenkins, Bash, Lombok, Heroku, Jira |
 | Database | MySQL, PostgreSQL, DynamoDB, Hibernate, JPA, Liquibase, Amazon S3 |
