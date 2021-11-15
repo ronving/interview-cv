@@ -5,7 +5,7 @@
 
                                                            Olkhovyi Mykhailo
                                                            +380-68-101-15-38
-												          ronvings@gmail.com
+						           ronvings@gmail.com
 
 ## SKILLS and EXPERTISE
                       
