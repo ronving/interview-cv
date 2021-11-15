@@ -3,9 +3,9 @@
 > Hi! I'm CV of your potential new Java Software Engineer.  
 > If you want to learn more about, you can read me.
 
-                                                           Olkhovyi Mykhailo
-                                                           +380-68-101-15-38
-						           ronvings@gmail.com
+	Olkhovyi Mykhailo
+	+380-68-101-15-38
+	ronvings@gmail.com
 
 ## SKILLS and EXPERTISE
                       
